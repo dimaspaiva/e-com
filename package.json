@@ -9,13 +9,15 @@
     "services/**"
   ],
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prepare": "husky install"
   },
   "devDependencies": {
     "@types/jest": "^29.5.1",
     "@typescript-eslint/eslint-plugin": "^6.0.0-alpha.138",
     "@typescript-eslint/parser": "^5.59.5",
     "eslint": "^8.40.0",
+    "husky": "^8.0.3",
     "jest": "^29.5.0",
     "prettier": "^2.8.8",
     "ts-jest": "^29.1.0",
