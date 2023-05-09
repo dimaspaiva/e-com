@@ -8,5 +8,8 @@
   "workspaces": [
     "services/**"
   ],
-  "scripts": {}
+  "scripts": {},
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
 }

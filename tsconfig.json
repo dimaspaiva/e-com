@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ESNext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+
+    "noImplicitAny": true,
+
+    "outDir": "dist"
+  },
+  "references": [
+    { "path": "services/api" }
+  ]
+}
