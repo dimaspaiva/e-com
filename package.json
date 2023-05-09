@@ -1,0 +1,9 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dimas Paiva",
+  "license": "MIT",
+  "private": true,
+  "scripts": {}
+}
