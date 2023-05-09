@@ -5,5 +5,8 @@
   "author": "Dimas Paiva",
   "license": "MIT",
   "private": true,
+  "workspaces": [
+    "services/**"
+  ],
   "scripts": {}
 }
